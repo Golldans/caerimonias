@@ -1,0 +1,5 @@
+-http://services.example-service
+POST - /user/create
+GET - /user/list
+PUT - /user/update
+PATCH - /user/test
